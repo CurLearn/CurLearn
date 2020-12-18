@@ -1,4 +1,4 @@
-## Welcome to my GitHub page (⌒ω⌒)ﾉ
+## Welcome to my GitHub profile (⌒ω⌒)ﾉ
 
 <!--
 **CurLearn/CurLearn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
